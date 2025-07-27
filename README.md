@@ -4,24 +4,20 @@ Welcome to my personal developer portfolio! This project showcases my **technica
 
 ## 🔗 Live Demo
 
-🌐 Coming soon on **Netlify**
+🌐 (https://ishavanjare.netlify.app/)
 
 ## 🧰 Tech Stack
 
-- React.js
 - HTML
 - CSS
-- Python
-- SQL
 - JavaScript
-- Node.js (for development environment)
 
 
 ## 📁 Project Structure
 
 This portfolio includes the following sections:
 
-- **Home** – A short introduction about me.
+- **Home** – A short introduction.
 - **Skills** – Technologies and tools I’m proficient in.
 - **Projects** – A collection of projects I’ve worked on so far.
 - **Contact** – Ways to reach me, including Gmail and LinkedIn.

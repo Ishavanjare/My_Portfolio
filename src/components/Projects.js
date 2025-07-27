@@ -43,7 +43,12 @@ const toggleDescription = (index) => {
             <p>Developed a FCFS-based parking system using python with automated slot allocation and real-time fee calculation. Managed vehicle logs using   SQL and optimized queue handling to reduce manual effort.</p>
           </div>
 
-          <h3>Queue Optimizer</h3>
+          <h3>
+            <a href="https://github.com/tri-tech-innovators/smart-city-queue-optimizer.git" className="contact-link" target="_blank" rel="noopener noreferrer">
+              Queue Optimizer
+             </a>
+          </h3>
+
           <Slider {...settings} className="slider">
             <img src="Q1.png" alt="Slide 1" className="carousel-image" />
             <img src="Q2.png" alt="Slide 2" className="carousel-image" />
@@ -58,7 +63,9 @@ const toggleDescription = (index) => {
             <p>Developed an interest-based career prediction system using Python, scikit-learn, and MongoDB. Trained ML models on a custom dataset and built a static questionnaire UI using HTML and CSS with real-time predictions.</p>
           </div>
 
-          <h3>Future YOU</h3>
+          <h3>
+              Future YOU
+          </h3>
           <Slider {...settings} className="slider">
             <img src="C1.png" alt="Slide 1" className="carousel-image" />
             <img src="C2.png" alt="Slide 2" className="carousel-image" />
@@ -76,8 +83,12 @@ const toggleDescription = (index) => {
             <p style={{ fontWeight: "bold", fontSize: "1.5rem" }}>ReactJS, TailwindCSS, Javascript, Solidity</p>
             <p>Built a decentralized task management system using Smart contract, Truffle Suite Ganache, React.js, and Metamask with role-based access. Deployed smart contracts for task workflows, integrated IPFS for secure storage, and simulated real-time updates on local network Ganache.</p> 
           </div>
-
-          <h3>DeTaskify</h3>
+          <h3>
+            <a href="https://github.com/tri-tech-innovators/detaskify-blockchain-task-allocation.git" className="contact-link" target="_blank" rel="noopener noreferrer">
+              DeTaskify
+             </a>
+             
+          </h3>
           <Slider {...settings} className="slider">
             <img src="D1.png" alt="Slide 1" className="carousel-image" />
             <img src="D2.png" alt="Slide 2" className="carousel-image" />
